@@ -9275,13 +9275,29 @@
       "drive_file_id": "1Twrx8dypMikTzBznujl16ODDyKmPLmNz"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / Creative Media",
+        "project": "AI-generated watermelon character animation",
+        "summary": "This sequence shows a highly realistic, stylized 3D character resembling a baby made entirely out of watermelon textures. The character is eating a slice of watermelon with a silver spoon, displaying realistic fluid motion and juice drippings.",
+        "materials": [
+          "Digital rendering software",
+          "AI image/video generation tools"
+        ],
+        "tools": [
+          "Generative AI",
+          "3D modeling and animation software"
+        ],
+        "viral_hook": "A hyper-realistic, 'watermelon baby' character that brings food-based fantasy to life with cute, uncanny, and highly shareable visuals."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "dOqtMIdj5D4",
+        "uploaded_at": "2026-06-07T11:31:08.321038",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -9295,6 +9311,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T11:31:02.469998"
     }
   },
   {
