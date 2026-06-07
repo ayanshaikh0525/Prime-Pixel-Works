@@ -7564,13 +7564,30 @@
       "drive_file_id": "1BAnK1bhJOX_mRXbPR6YaAxTAJw9zMgF6"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Food Art / Digital Illustration",
+        "project": "Fruit-Baby Hybrid Sculptures",
+        "summary": "A series of hyper-realistic, whimsical depictions of anthropomorphic fruit characters—avocados, peaches, and watermelons—shaped like infants, showcasing playful expressions and interactions with their own fruit slices.",
+        "materials": [
+          "Avocados",
+          "Peaches",
+          "Watermelon"
+        ],
+        "tools": [
+          "Digital imaging software",
+          "AI image generation model"
+        ],
+        "viral_hook": "These fruit babies are almost too cute (and slightly uncanny) to eat—would you take a bite?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "3_vYLtgBRYw",
+        "uploaded_at": "2026-06-07T11:55:47.697910",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7584,6 +7601,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T11:55:43.773369"
     }
   },
   {
