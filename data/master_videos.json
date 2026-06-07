@@ -11170,13 +11170,28 @@
       "drive_file_id": "12nX7U1zw3QNdt0fZmSkmvw7x4DMvz8WZ"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Culinary Art / AI-Generated Content",
+        "project": "Croissant Cat Pastry",
+        "summary": "The video displays a hyper-realistic, AI-generated image sequence of a cat shaped like a croissant. A person is shown dusting the pastry cat with powdered sugar, creating a whimsical and surreal food art concept.",
+        "materials": [
+          "Croissant (AI-generated)",
+          "Powdered sugar"
+        ],
+        "tools": [
+          "Sifter or shaker"
+        ],
+        "viral_hook": "Is this the cutest breakfast ever, or is it just another mind-bending AI creation? You won't believe how this croissant cat wakes up!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "6DMUvpaHve8",
+        "uploaded_at": "2026-06-07T14:13:01.373581",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -11190,6 +11205,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T14:12:56.600297"
     }
   },
   {
