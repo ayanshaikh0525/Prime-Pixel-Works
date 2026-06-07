@@ -2036,13 +2036,28 @@
       "drive_file_id": "1ERBatnNlhs8R2uPz_fIRquqsjFSmwhB7"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Children's Content / Cute Lifestyle",
+        "project": "Hello Kitty themed baby portrait",
+        "summary": "A high-quality, adorable portrait of a baby girl dressed in a pink Hello Kitty outfit, wearing colorful hair clips, and holding a glittery toy telephone while sitting on a white faux fur surface.",
+        "materials": [
+          "Pink Hello Kitty baby dress",
+          "Multi-colored floral hair clips",
+          "Glittery toy telephone",
+          "White faux fur blanket"
+        ],
+        "tools": [],
+        "viral_hook": "The ultimate 'cuteness overload' aesthetic—perfect for baby-themed social media content."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "3nsCrNRenFc",
+        "uploaded_at": "2026-06-07T10:05:15.561547",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2056,6 +2071,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T10:04:58.923145"
     }
   },
   {
