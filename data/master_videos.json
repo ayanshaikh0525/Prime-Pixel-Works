@@ -8048,13 +8048,28 @@
       "drive_file_id": "1xiSJhA7nHibxHFW3tKmyunKaAAd-H1zh"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Food Art / Digital Manipulation",
+        "project": "Cat-shaped Bread Loaf",
+        "summary": "A creative visual composition featuring a loaf of bread uniquely shaped to look like a ginger cat's head, being dusted with powdered sugar to resemble a finished baking project.",
+        "materials": [
+          "Loaf of bread",
+          "Powdered sugar"
+        ],
+        "tools": [
+          "Plate"
+        ],
+        "viral_hook": "Is it a cat, or is it cake? You won't believe how this bread loaf turned out!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "1mEvnrTmaag",
+        "uploaded_at": "2026-06-08T12:11:03.142122",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8068,6 +8083,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T12:10:55.414487"
     }
   },
   {
