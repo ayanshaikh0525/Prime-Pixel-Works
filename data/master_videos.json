@@ -8675,13 +8675,27 @@
       "drive_file_id": "1VC_iFN_R4V2mRmsusklxp7MQXc2442w9"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Content",
+        "project": "AI-generated surrealist animation of baby animals",
+        "summary": "A viral-style sequence of AI-generated video frames showing small animals (chicks and bunnies) being 'poured' out of a glass jar onto a plate. The movement is surreal and physically impossible, characteristic of generative video models.",
+        "materials": [
+          "AI video generation software"
+        ],
+        "tools": [
+          "Generative AI model (e.g., Runway, Luma, Kling, or Sora)"
+        ],
+        "viral_hook": "The impossible and satisfyingly surreal act of pouring living baby animals out of a glass jar like they are marbles."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "dTC0-kgxEkY",
+        "uploaded_at": "2026-06-09T12:11:52.725812",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8695,6 +8709,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T12:11:48.411838"
     }
   },
   {
