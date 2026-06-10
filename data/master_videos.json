@@ -7013,13 +7013,30 @@
       "drive_file_id": "1pMhrTM4QlGRdOYGktKFodQMIU-EN7TAC"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Food Art",
+        "project": "Sushi Baby Sculpting",
+        "summary": "An artistic and highly detailed food sculpture shaped like a cute, chubby baby made entirely of sushi rice, featuring 'hair' made from shredded nori seaweed and a belly band of nori. The video depicts the process of feeding the sushi figure a piece of raw salmon with a spoon, highlighting the intricate, lifelike facial expressions and creative food presentation.",
+        "materials": [
+          "Sushi rice",
+          "Nori (seaweed) sheets",
+          "Salmon slice"
+        ],
+        "tools": [
+          "Spoon",
+          "Kitchen workstation/board"
+        ],
+        "viral_hook": "Is this the cutest food creation ever? Witness the hyper-realistic rice baby 'eating' its first bite of salmon!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "0rKDE1axCYQ",
+        "uploaded_at": "2026-06-10T19:41:57.774386",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7033,6 +7050,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-10T19:41:53.157161"
     }
   },
   {
