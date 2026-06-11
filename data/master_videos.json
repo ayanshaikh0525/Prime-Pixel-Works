@@ -9195,13 +9195,25 @@
       "drive_file_id": "1HkpbYsghIpK1-zmwlYgBrcSExGxVJ4Yi"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Entertainment / Digital Art",
+        "project": "AI-generated baby dance",
+        "summary": "A sequence of AI-generated video frames showing a toddler wearing a sun hat and sunglasses dancing energetically on a beach.",
+        "materials": [],
+        "tools": [
+          "AI Video Generation Software (e.g., Runway Gen-2, Luma Dream Machine, or Kling AI)"
+        ],
+        "viral_hook": "The internet's new favorite tiny dancer: See this AI-generated baby absolutely crush it on the beach!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "y0bQ1WlaIA4",
+        "uploaded_at": "2026-06-11T09:17:35.086021",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -9215,6 +9227,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-11T09:17:30.303225"
     }
   },
   {
