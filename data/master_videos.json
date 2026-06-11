@@ -4200,13 +4200,26 @@
       "drive_file_id": "1MTCY3qIsqdO0ym9hDAcrBH1TnEnubvKI"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Comedy / Viral Content",
+        "project": "Chicken 'Bread' Kneading",
+        "summary": "A humorous short video featuring a live white chicken sitting on a kitchen counter. A person mimics the motions of kneading dough on the chicken's back as if it were a loaf of bread, while white powder is sprinkled around it to complete the illusion.",
+        "materials": [
+          "Live chicken",
+          "Flour (or similar white powder)"
+        ],
+        "tools": [],
+        "viral_hook": "Is this a chicken or a loaf of sourdough?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "8o7FJG7u4e8",
+        "uploaded_at": "2026-06-11T20:00:04.566917",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4220,6 +4233,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-11T20:00:00.665839"
     }
   },
   {
