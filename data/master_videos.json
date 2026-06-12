@@ -5144,13 +5144,29 @@
       "drive_file_id": "1fCrwdLGu_pTXG9g3HhUReN8D4vX--JLA"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "Fruit-Baby Hybrid Series",
+        "summary": "A series of high-quality AI-generated clips showing miniature, cute human-like baby creatures integrated with various fruits (watermelon, pineapple, peach) being fed by a human finger. The subjects exhibit realistic textures, expressive faces, and fluid, syrupy animations.",
+        "materials": [
+          "AI video generation software (e.g., Runway, Luma Dream Machine, or Kling)",
+          "Image generation tools (e.g., Midjourney or DALL-E 3)"
+        ],
+        "tools": [
+          "Text-to-video AI generator",
+          "Video editing software for sequencing"
+        ],
+        "viral_hook": "The uncanny cuteness and hyper-realistic, 'gooey' texture of these surreal fruit-human hybrids make them highly shareable and satisfying to watch, tapping into the 'oddly satisfying' and 'cute/surreal' aesthetic niches."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "pmpZBZWop0c",
+        "uploaded_at": "2026-06-12T16:50:50.082057",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5164,6 +5180,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-12T16:50:45.545317"
     }
   },
   {
