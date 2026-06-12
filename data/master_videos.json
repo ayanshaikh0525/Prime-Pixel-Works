@@ -9255,13 +9255,29 @@
       "drive_file_id": "1x3vfEsEYVJFUSYjBIBsUfVQ9b5CC5k2_"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "Watermelon Baby Character Design",
+        "summary": "A sequence of generated frames depicting a surreal, anthropomorphic baby character crafted from a watermelon, being fed with a metal spoon, resulting in a dripping, hyper-realistic animation.",
+        "materials": [
+          "Watermelon",
+          "Watermelon seeds"
+        ],
+        "tools": [
+          "Generative AI Video Tool (e.g., Runway Gen-2, Luma Dream Machine, or Kling AI)",
+          "Metal spoon"
+        ],
+        "viral_hook": "Is this the cutest (and weirdest) watermelon you've ever seen? Watch this little guy enjoy his first bite!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "9qMbAHWgww0",
+        "uploaded_at": "2026-06-12T05:17:59.569935",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -9275,6 +9291,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-12T05:17:55.146787"
     }
   },
   {
