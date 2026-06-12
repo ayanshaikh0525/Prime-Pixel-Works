@@ -6874,13 +6874,32 @@
       "drive_file_id": "1fgXiyOj5lY_EWDzMYf05VnPvyPYrvWPx"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Culinary Art / Food Design",
+        "project": "Strawberry Baby Sculpture",
+        "summary": "A highly stylized, hyper-realistic edible sculpture shaped like a baby with a strawberry body, being 'fed' a fresh strawberry with a spoon. The piece features intricate textures mimicking strawberry seeds and leaves.",
+        "materials": [
+          "Fresh strawberries",
+          "Edible food glue or binding agent",
+          "Fruit glaze or syrup",
+          "Edible flower (for head decoration)"
+        ],
+        "tools": [
+          "Precision sculpting knife",
+          "Small spoon",
+          "Tweezers (for delicate placement)"
+        ],
+        "viral_hook": "Is it art, or is it food? This hyper-realistic strawberry baby sculpture is the weirdest thing you'll see on your feed today."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Hkw0zb7vlII",
+        "uploaded_at": "2026-06-12T13:33:57.357829",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6894,6 +6913,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-12T13:33:53.623921"
     }
   },
   {
