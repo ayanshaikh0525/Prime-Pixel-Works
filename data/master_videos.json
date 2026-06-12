@@ -9798,13 +9798,30 @@
       "drive_file_id": "1kU9hiObMjsl66k2s9V5gtVSHW9bkPHPJ"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "Vegetable Character Transformations",
+        "summary": "A sequence of AI-generated animations showing personified vegetable characters (a carrot, broccoli, and red bell pepper) eating a mash made from their own likeness. Each character expresses a distinct personality through facial expressions and steam/atmosphere.",
+        "materials": [
+          "Carrots",
+          "Broccoli",
+          "Red bell peppers"
+        ],
+        "tools": [
+          "Kling AI",
+          "AI video generation software"
+        ],
+        "viral_hook": "Watching vegetables eat their own kind in this unsettling yet oddly cute AI animation loop."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "h1sS4k8smYM",
+        "uploaded_at": "2026-06-12T21:15:58.718238",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -9818,6 +9835,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-12T21:15:49.045333"
     }
   },
   {
