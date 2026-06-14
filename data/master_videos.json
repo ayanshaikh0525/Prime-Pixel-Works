@@ -8336,13 +8336,31 @@
       "drive_file_id": "1SYk1Jz5_wpANru-cZzzEeA1t0-o5i-GD"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Food Art / Culinary Sculpture",
+        "project": "Grape Baby Sculpture",
+        "summary": "A creative food art piece depicting a baby figure assembled from green and red grapes, featuring a sculpted face with eyelashes and extremities, being 'fed' a single grape with a metal spoon.",
+        "materials": [
+          "Green grapes",
+          "Red grapes",
+          "False eyelashes (or sculpted edible detail)",
+          "Possibly food-safe adhesive or structural support"
+        ],
+        "tools": [
+          "Spoon",
+          "Precision carving/assembly tools"
+        ],
+        "viral_hook": "Is this the cutest (or creepiest) thing you've ever seen? Watch this grape baby come to life!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "YgITlEtanXE",
+        "uploaded_at": "2026-06-14T05:18:00.788409",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8356,6 +8374,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-14T05:17:56.808736"
     }
   },
   {
