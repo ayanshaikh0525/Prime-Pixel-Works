@@ -4903,13 +4903,30 @@
       "drive_file_id": "1N65CM5Jih2HGoRBPot8g4VRNP6JBRtJV"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Food Art / Digital Manipulation",
+        "project": "Fruit-based 'Baby' sculptures",
+        "summary": "A series of AI-generated or digitally manipulated images featuring stylized, doll-like figures carved or assembled from various fruits (orange, watermelon, pineapple). The figures are depicted being 'fed' a piece of the same fruit with a metal spoon, resulting in a surreal dripping juice effect.",
+        "materials": [
+          "Orange",
+          "Watermelon",
+          "Pineapple"
+        ],
+        "tools": [
+          "Digital Art/AI Generation Software",
+          "Spoon (in imagery)"
+        ],
+        "viral_hook": "These bizarrely cute, surreal fruit-babies are hauntingly satisfying to watch—can you guess which fruit is next?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "SwjScagR4F8",
+        "uploaded_at": "2026-06-18T16:39:10.233341",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4923,6 +4940,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T16:39:06.252171"
     }
   },
   {
