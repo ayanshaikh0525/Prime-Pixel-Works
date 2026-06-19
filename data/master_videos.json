@@ -11155,13 +11155,28 @@
       "drive_file_id": "151n5e_BAJW04d2GekhDZT-L8DKNWGr9w"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / Entertainment",
+        "project": "Surreal Carrot Harvest",
+        "summary": "A whimsical, AI-generated sequence depicting a hand harvesting a carrot from a field, which unexpectedly reveals a fluffy, wide-eyed Persian cat emerging from the soil instead of a vegetable.",
+        "materials": [
+          "Digital rendering software",
+          "AI video generation model"
+        ],
+        "tools": [
+          "AI image/video synthesis software"
+        ],
+        "viral_hook": "Expect the unexpected: what starts as a peaceful garden harvest takes an adorable, surreal turn."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "7VKFWh8ua-s",
+        "uploaded_at": "2026-06-19T14:17:16.317175",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -11175,6 +11190,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T14:17:11.485208"
     }
   },
   {
