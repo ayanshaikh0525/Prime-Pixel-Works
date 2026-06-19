@@ -11202,13 +11202,29 @@
       "drive_file_id": "1LVOkAkyV0GXvgP9JCxfhBjJ0sPHrsi0t"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / Visual Effects",
+        "project": "Surreal AI-generated content",
+        "summary": "A viral-style video featuring a surreal visual effect where a human hand cracks open a standard chicken egg, but instead of the yolk, a tiny, live white kitten emerges onto a plate.",
+        "materials": [
+          "Digital video editing software",
+          "Generative AI animation tools"
+        ],
+        "tools": [
+          "AI video generator",
+          "Compositing software"
+        ],
+        "viral_hook": "You won't believe what comes out of this egg!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "swOzGLdCoI0",
+        "uploaded_at": "2026-06-19T17:00:04.000753",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -11222,6 +11238,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T16:59:59.409765"
     }
   },
   {
