@@ -7630,13 +7630,30 @@
       "drive_file_id": "15oupLkouRoEp2euVf9SPYJvswJh8CcXd"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Animation / Entertainment",
+        "project": "AI-generated dancing kittens",
+        "summary": "A group of AI-animated, anthropomorphic kittens wearing colorful onesies perform a synchronized dance routine against a vibrant Times Square, New York, backdrop.",
+        "materials": [
+          "Digital animation software",
+          "Generative AI imagery tools",
+          "Motion capture / Animation modeling"
+        ],
+        "tools": [
+          "AI video generator",
+          "Digital rendering engine"
+        ],
+        "viral_hook": "These dancing kittens in Times Square are the cutest thing you'll see on the internet today!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "VD_tqEC-kHk",
+        "uploaded_at": "2026-06-20T18:56:16.504780",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7650,6 +7667,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T18:56:11.258027"
     }
   },
   {
