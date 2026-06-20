@@ -10372,13 +10372,31 @@
       "drive_file_id": "1vBbIFKlGms9I70pd9kNNEVfVclVqw4NL"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / Animation",
+        "project": "Anthropomorphic Fruit Characters",
+        "summary": "A whimsical video sequence featuring AI-generated, hyper-realistic fruit characters (apples, pineapples, and peaches) with expressive human-like faces. The characters interact with a spoon, suggesting a playful eating or feeding motion in a lush, outdoor orchard setting.",
+        "materials": [
+          "Digital AI-generated imagery",
+          "Synthetic fruit textures",
+          "Lighting/atmospheric effects"
+        ],
+        "tools": [
+          "AI image generation software (e.g., Midjourney)",
+          "Video animation software (e.g., Runway Gen-2, Pika, or Kling)",
+          "Video editing software"
+        ],
+        "viral_hook": "These hyper-realistic, cute fruit characters with human faces are equal parts adorable and surreal, making them perfect for bizarre, eye-catching social media trends."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "sFh9otaY98M",
+        "uploaded_at": "2026-06-20T08:04:22.367307",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -10392,6 +10410,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T08:04:18.328043"
     }
   },
   {
