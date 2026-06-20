@@ -5918,13 +5918,27 @@
       "drive_file_id": "1cQ30zOsl3bxs57RJY0I38BdcZ1KmifY1"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Entertainment/Lifestyle",
+        "project": "Baby and Pet Interaction",
+        "summary": "A heartwarming video showing a baby laughing and interacting with a small Scottish Fold kitten on a bed.",
+        "materials": [
+          "Baby",
+          "Kitten (Scottish Fold)",
+          "Bedding"
+        ],
+        "tools": [],
+        "viral_hook": "The ultimate serotonin boost: a giggling baby meets his new best friend."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "RsPnoicZ76s",
+        "uploaded_at": "2026-06-20T17:06:04.092954",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5938,6 +5952,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T17:05:56.651433"
     }
   },
   {
