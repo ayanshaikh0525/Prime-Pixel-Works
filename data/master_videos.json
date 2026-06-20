@@ -1766,13 +1766,28 @@
       "drive_file_id": "1E3BO3KRFcB4kChqzvOyTYx1NYxIYxnj8"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Content",
+        "project": "Strawberry Kitten Miniature",
+        "summary": "A sequence of frames featuring an AI-generated, hyper-realistic, and impossibly cute 'strawberry kitten' being held in the hands of a baby. The imagery combines biological elements of a cat with the textures and features of a strawberry, creating a surreal and whimsical character design.",
+        "materials": [
+          "AI image generation software",
+          "Digital rendering"
+        ],
+        "tools": [
+          "Generative AI model (e.g., Midjourney, DALL-E 3, or Stable Diffusion)"
+        ],
+        "viral_hook": "Is it a fruit? Is it a cat? Meet the strawberry kitten that is melting the internet."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "X7XiyQEkTUE",
+        "uploaded_at": "2026-06-20T23:17:51.405109",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1786,6 +1801,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T23:17:47.438480"
     }
   },
   {
