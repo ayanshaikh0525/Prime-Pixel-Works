@@ -7836,13 +7836,31 @@
       "drive_file_id": "1zmRlW0xCY5roCTdtbdeJ2zt516qTrjUi"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Generated Content",
+        "project": "Surreal fruit-baby sculptures",
+        "summary": "A series of hyper-realistic, AI-generated animations depicting human-like baby faces sculpted into the shapes of various fruits (grapes, strawberries, peaches). The scenes feature spoon-feeding movements with viscous, syrupy fruit pulp, creating an uncanny, surreal aesthetic.",
+        "materials": [
+          "AI video generation software",
+          "Digital imagery"
+        ],
+        "tools": [
+          "Runway Gen-2",
+          "Midjourney",
+          "Luma Dream Machine",
+          "Kling AI"
+        ],
+        "viral_hook": "These hyper-realistic 'fruit babies' are both adorable and deeply unsettling—you won't be able to look away."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "oLDO7hIMdVM",
+        "uploaded_at": "2026-06-20T15:07:51.627919",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7856,6 +7874,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T15:07:47.230142"
     }
   },
   {
