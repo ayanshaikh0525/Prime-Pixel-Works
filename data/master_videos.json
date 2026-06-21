@@ -3948,13 +3948,27 @@
       "drive_file_id": "1lr6ICPezioQ94GsWg6ALdY6-rlCG47JZ"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Content",
+        "project": "AI-Generated Surreal Animal Content",
+        "summary": "A series of AI-generated clips featuring a baby in winter gear surrounded by magically colored animals in a snowy forest. The animals shift between chicks, kittens, and squirrels across different frames.",
+        "materials": [
+          "AI Video Generation Software"
+        ],
+        "tools": [
+          "Generative AI tool"
+        ],
+        "viral_hook": "Is this real? Witness the impossible cuteness of a baby in a snowy wonderland surrounded by neon-colored animals."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "-VElVzWiVQQ",
+        "uploaded_at": "2026-06-21T02:01:11.618046",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3968,6 +3982,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T02:01:07.369613"
     }
   },
   {
