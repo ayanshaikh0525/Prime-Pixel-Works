@@ -8074,13 +8074,32 @@
       "drive_file_id": "1zfq49omp_P4eDjW-0enSkXEnQMTzJP1a"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / Surrealism",
+        "project": "Surreal anthropomorphic fruit animations",
+        "summary": "A series of surreal, AI-generated or digitally manipulated clips showing fruits (a plum and an orange) that possess human-like features, including eyes and mouths, 'eating' jelly or jam from a spoon.",
+        "materials": [
+          "Plum",
+          "Orange",
+          "Sugar (for coating)",
+          "Fruit jam or jelly"
+        ],
+        "tools": [
+          "Digital animation software",
+          "Generative AI image/video tools",
+          "Video editing software"
+        ],
+        "viral_hook": "These hyper-realistic, uncanny valley fruit-babies are equal parts mesmerizing and disturbing, making them perfect for generating high engagement through shock value and curiosity."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "jwJTM2zAe0k",
+        "uploaded_at": "2026-06-21T17:09:42.360727",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8094,6 +8113,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T17:09:34.755120"
     }
   },
   {
