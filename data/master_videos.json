@@ -8241,13 +8241,26 @@
       "drive_file_id": "1QzdIUKkyMoU5PZthumSSgHYHSEvdzoUa"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Children's Content / Entertainment",
+        "project": "Toddler Nursery Rhyme Dance",
+        "summary": "A cute toddler dressed in a pink bunny-themed outfit performs a series of hand gestures and movements while smiling for the camera.",
+        "materials": [
+          "Pink bunny-themed dress",
+          "Pink hair bows"
+        ],
+        "tools": [],
+        "viral_hook": "Watch the most adorable toddler dance that is guaranteed to brighten your day!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "XYfcH2t4UCk",
+        "uploaded_at": "2026-06-22T23:52:01.197196",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8261,6 +8274,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T23:51:56.759173"
     }
   },
   {
