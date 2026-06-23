@@ -9096,13 +9096,25 @@
       "drive_file_id": "1URlH6YWwxZqp6n3l1mvU5ox5xJ38Pktd"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Parenting / Entertainment",
+        "project": "Baby's first steps",
+        "summary": "A video featuring a young baby in a white onesie, happily dancing and taking their first steps in a living room.",
+        "materials": [
+          "white onesie"
+        ],
+        "tools": [],
+        "viral_hook": "Watch this little one crush their first dance moves! You won't believe how cute this is."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "2LykeJOMZhw",
+        "uploaded_at": "2026-06-23T15:18:00.750602",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -9116,6 +9128,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T15:17:54.714027"
     }
   },
   {
