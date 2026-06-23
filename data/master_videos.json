@@ -10901,13 +10901,30 @@
       "drive_file_id": "1jTzFCJbNSLZfapGXpwzVIaFw4_i1JPD6"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / Entertainment",
+        "project": "Watermelon Donkey Transformation",
+        "summary": "This video uses visual effects to digitally manipulate a donkey's appearance, transitioning its fur pattern to resemble the texture and rind of a watermelon, while showing it eating a piece of watermelon in a field.",
+        "materials": [
+          "Digital video footage of a donkey",
+          "Digital watermelon imagery"
+        ],
+        "tools": [
+          "Video editing software (e.g., Adobe After Effects, DaVinci Resolve)",
+          "Motion tracking/Rotoscoping tools",
+          "Generative AI or texture mapping software"
+        ],
+        "viral_hook": "Nature's perfect snack or a bizarre hallucination? Wait until you see what happens to this donkey after eating watermelon!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "BxuIXR-Rfi0",
+        "uploaded_at": "2026-06-23T04:10:37.947515",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -10921,6 +10938,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T04:10:34.112090"
     }
   },
   {
