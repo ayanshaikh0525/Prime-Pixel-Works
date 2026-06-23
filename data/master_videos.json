@@ -9212,13 +9212,31 @@
       "drive_file_id": "1xaqNtgFt10n0DOkso9rOGX0KtuB0nnxa"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "AI-Generated Media",
+        "project": "Childhood Joy / Cinematic Photography",
+        "summary": "A series of high-quality AI-generated images depicting a group of happy children riding a toy blue tractor pulling a green wooden wagon through a sun-drenched wildflower meadow. The children are laughing and waving, capturing a whimsical, nostalgic, and joyful aesthetic.",
+        "materials": [
+          "Toy tractor",
+          "Toy wagon",
+          "Wildflower field",
+          "Clothing (various summer attire, suspenders)"
+        ],
+        "tools": [
+          "AI Image Generator (likely Midjourney or DALL-E)",
+          "Video animation tool (for movement generation)"
+        ],
+        "viral_hook": "The ultimate aesthetic of pure childhood joy—this is what core memories look like."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "v-sF5g1Xo8M",
+        "uploaded_at": "2026-06-23T08:05:07.402170",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -9232,6 +9250,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T08:05:02.721643"
     }
   },
   {
