@@ -4168,13 +4168,28 @@
       "drive_file_id": "19HeSBGZlLH1v97K8tOGr-2WW9sMcnQiN"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Content",
+        "project": "Surreal 'Cat Stack' Baking Simulation",
+        "summary": "A viral-style, surreal video clip featuring an AI-generated scene where a woman 'bakes' or prepares a stack of three cats as if they were dough, complete with flour dusting.",
+        "materials": [
+          "AI-generated digital imagery",
+          "Simulated flour"
+        ],
+        "tools": [
+          "Generative AI video software (e.g., Runway, Sora, or Midjourney/Luma)"
+        ],
+        "viral_hook": "The 'bizarrely cute' juxtaposition of cats acting like inanimate baking dough creates high visual curiosity and uncanny humor, perfect for social media engagement."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "zGzsw2Eezk8",
+        "uploaded_at": "2026-06-24T13:39:00.518748",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4188,6 +4203,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T13:38:56.386281"
     }
   },
   {
