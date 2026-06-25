@@ -5594,13 +5594,29 @@
       "drive_file_id": "1cK4zigxZ43nf_w8fH0j2-eNThykFySkS"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "Anthropomorphic vegetable characters",
+        "summary": "This video features AI-generated, hyper-realistic, and adorable animated characters resembling a bulb of garlic and a head of lettuce. The characters have human-like facial features, large expressive eyes, and are being fed with a small silver spoon, creating a 'cute and surreal' aesthetic common in viral social media content.",
+        "materials": [
+          "AI image generation software (e.g., Midjourney)",
+          "AI video animation tools (e.g., Luma Dream Machine, Runway Gen-2, or Kling)"
+        ],
+        "tools": [
+          "Generative AI image model",
+          "AI motion/video synthesis tool"
+        ],
+        "viral_hook": "These hyper-realistic, baby-like vegetable characters tap into the 'uncanny cute' aesthetic, making them highly shareable and effective at stopping the scroll through high-quality visual intrigue."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Hgw0A0Jumd8",
+        "uploaded_at": "2026-06-25T01:33:28.141026",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5614,6 +5630,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-25T01:33:24.334331"
     }
   },
   {
